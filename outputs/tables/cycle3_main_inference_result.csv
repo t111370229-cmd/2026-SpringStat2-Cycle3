@@ -1,0 +1,22 @@
+Statistic,Value
+Method,Two-proportion z-test
+Significance level alpha,0.05
+H0,p_female = p_male
+H1,p_female != p_male
+Female sample size,6940
+Female yes count,2580
+Female no count,4360
+Female sample proportion,0.3718 (37.18%)
+Male sample size,6893
+Male yes count,1567
+Male no count,5326
+Male sample proportion,0.2273 (22.73%)
+Estimated difference: p_female - p_male,0.1444 (14.44 percentage points)
+95% CI lower bound,0.1294
+95% CI upper bound,0.1595
+Pooled proportion under H0,0.2998
+SE for z-test,0.0078
+z statistic,18.5374
+p-value,0.0000
+Decision,Reject H0
+Group with higher sample proportion,Female

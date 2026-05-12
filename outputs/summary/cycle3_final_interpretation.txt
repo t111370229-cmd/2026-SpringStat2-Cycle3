@@ -1,0 +1,14 @@
+At alpha = 0.05, the p-value is 0.0000, which is less than 0.05.
+
+Therefore, we reject H0.
+
+There is statistically significant evidence that the proportion of students who felt sad or hopeless is different between female and male students.
+
+The female sample proportion was 0.3718 (37.18%).
+The male sample proportion was 0.2273 (22.73%).
+
+The estimated difference p_female - p_male was 0.1444 (14.44 percentage points).
+
+The 95% confidence interval for the difference was from 0.1294 to 0.1595.
+
+The female group had the higher sample proportion.

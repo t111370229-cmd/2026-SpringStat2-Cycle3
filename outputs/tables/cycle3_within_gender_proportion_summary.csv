@@ -1,0 +1,5 @@
+sex_label,sad_label,count,within_gender_proportion,within_gender_percentage
+Female,Sad/Hopeless = Yes,2580,0.37175792507204614,37.18
+Female,Sad/Hopeless = No,4360,0.6282420749279539,62.82
+Male,Sad/Hopeless = Yes,1567,0.22733207601914987,22.73
+Male,Sad/Hopeless = No,5326,0.7726679239808502,77.27
